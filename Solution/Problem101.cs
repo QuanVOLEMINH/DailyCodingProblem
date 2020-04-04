@@ -22,7 +22,6 @@ namespace Solution
                 {
                     return new[] { i, input - i };
                 }
-                continue;
             }
             return null;
         }
